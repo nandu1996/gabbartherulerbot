@@ -1,5 +1,5 @@
 {
-  "name": "gabbartherulerbot",
+  "name": "scrnshtt_bot",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -14,7 +14,7 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/gabbartherulerbot",
+  "success_url": "https://telegram.dog/scrnshtt_bot",
   "website": "",
   "repository": "https://github.com/nandu1996/gabbartherulerbot.git",
   "env": {
