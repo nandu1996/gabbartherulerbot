@@ -1,4 +1,4 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
+## [scrnshtt_bot](https://telegram.dog/scrnshtt_bot)
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
